@@ -1,0 +1,23 @@
+* {
+  background-color: green;
+}
+
+label, legend, h1, p, select {
+  display: block;
+  margin: 20px auto;
+  align: center;
+  text-align: center;
+}
+
+input.radio, input.checkbox {
+  display: inline;
+} 
+
+#textarea {
+  margin-top: 5px;
+}
+
+#submit {
+  display: block;
+  margin: 0 auto;
+}
